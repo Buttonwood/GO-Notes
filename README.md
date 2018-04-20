@@ -1,0 +1,2 @@
+# GO-Notes
+Learning golang
